@@ -1,0 +1,778 @@
+{
+  "college": "Swamy Vivekananda Rural First Grade College",
+  "campus": "Niveditha Campus, Neraluru, Anekal Taluk, Bengaluru – 107",
+  "semester": "V Semester",
+  "course": "BCA",
+  "students": [
+    {
+      "reg_no": "U03MJ24S0001",
+      "name": "Manoj A",
+      "marks": {
+        "BD": 20.0,
+        "FD": 8.0,
+        "CC": 9.0,
+        "IOT": 12.0,
+        "CS": 10.0,
+        "QT": 13.0,
+        "BD LAB": 21.0,
+        "FD LAB": "ab"
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0002",
+      "name": "Abhilash D",
+      "marks": {
+        "BD": 13.0,
+        "FD": 13.0,
+        "CC": 9.0,
+        "IOT": 14.0,
+        "CS": 11.0,
+        "QT": 5.0,
+        "BD LAB": 21.0,
+        "FD LAB": 18.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0003",
+      "name": "Akash S",
+      "marks": {
+        "BD": 19.0,
+        "FD": 16.0,
+        "CC": 12.0,
+        "IOT": 10.0,
+        "CS": 17.0,
+        "QT": 17.0,
+        "BD LAB": 24.0,
+        "FD LAB": 17.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0004",
+      "name": "Ambika N",
+      "marks": {
+        "BD": "ab",
+        "FD": 3.0,
+        "CC": 1.0,
+        "IOT": 10.0,
+        "CS": 7.0,
+        "QT": 0.0,
+        "BD LAB": 20.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0005",
+      "name": "Anitha D",
+      "marks": {
+        "BD": 20.0,
+        "FD": 19.0,
+        "CC": "ab",
+        "IOT": 20.0,
+        "CS": 20.0,
+        "QT": 16.0,
+        "BD LAB": 24.0,
+        "FD LAB": 19.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0006",
+      "name": "Anusha N",
+      "marks": {
+        "BD": 16.0,
+        "FD": 13.0,
+        "CC": "ab",
+        "IOT": 22.0,
+        "CS": 22.0,
+        "QT": 7.0,
+        "BD LAB": 23.0,
+        "FD LAB": 18.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0007",
+      "name": "Bhavani",
+      "marks": {
+        "BD": 18.0,
+        "FD": 18.0,
+        "CC": 13.0,
+        "IOT": 18.0,
+        "CS": 13.0,
+        "QT": 17.0,
+        "BD LAB": 21.0,
+        "FD LAB": 18.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0009",
+      "name": "Bishal Kumar",
+      "marks": {
+        "BD": 5.0,
+        "FD": 9.0,
+        "CC": 10.0,
+        "IOT": 15.0,
+        "CS": 13.0,
+        "QT": 9.0,
+        "BD LAB": 19.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0011",
+      "name": "Chandana J",
+      "marks": {
+        "BD": 19.0,
+        "FD": 15.0,
+        "CC": 16.0,
+        "IOT": 21.0,
+        "CS": 23.0,
+        "QT": "ab",
+        "BD LAB": 23.0,
+        "FD LAB": 21.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0012",
+      "name": "Chandana M",
+      "marks": {
+        "BD": 11.0,
+        "FD": 14.0,
+        "CC": 12.0,
+        "IOT": 18.0,
+        "CS": 16.0,
+        "QT": 3.0,
+        "BD LAB": 22.0,
+        "FD LAB": "ab"
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0013",
+      "name": "Chethan P",
+      "marks": {
+        "BD": 18.0,
+        "FD": 21.0,
+        "CC": 17.0,
+        "IOT": 20.0,
+        "CS": 18.0,
+        "QT": 22.0,
+        "BD LAB": 25.0,
+        "FD LAB": 25.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0014",
+      "name": "Dharshini R",
+      "marks": {
+        "BD": 20.0,
+        "FD": 24.0,
+        "CC": 19.0,
+        "IOT": 22.0,
+        "CS": 24.0,
+        "QT": 22.0,
+        "BD LAB": 25.0,
+        "FD LAB": 18.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0015",
+      "name": "Gowthami",
+      "marks": {
+        "BD": 9.0,
+        "FD": 10.0,
+        "CC": "ab",
+        "IOT": "ab",
+        "CS": "ab",
+        "QT": 5.0,
+        "BD LAB": 21.0,
+        "FD LAB": 17.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0016",
+      "name": "Harshavardan K",
+      "marks": {
+        "BD": 0.0,
+        "FD": 0.0,
+        "CC": 0.0,
+        "IOT": 1.0,
+        "CS": "ab",
+        "QT": 2.0,
+        "BD LAB": "ab",
+        "FD LAB": "ab"
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0017",
+      "name": "Harshitha L",
+      "marks": {
+        "BD": 23.0,
+        "FD": 24.0,
+        "CC": 21.0,
+        "IOT": 23.0,
+        "CS": 24.0,
+        "QT": 25.0,
+        "BD LAB": 25.0,
+        "FD LAB": 25.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0018",
+      "name": "Hema S",
+      "marks": {
+        "BD": 12.0,
+        "FD": 13.0,
+        "CC": 15.0,
+        "IOT": 19.0,
+        "CS": 20.0,
+        "QT": 9.0,
+        "BD LAB": 24.0,
+        "FD LAB": 24.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0019",
+      "name": "Hemavathi S",
+      "marks": {
+        "BD": 21.0,
+        "FD": 12.0,
+        "CC": 15.0,
+        "IOT": 23.0,
+        "CS": 16.0,
+        "QT": 6.0,
+        "BD LAB": 23.0,
+        "FD LAB": 22.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0020",
+      "name": "Aishwarya B A",
+      "marks": {
+        "BD": 12.0,
+        "FD": 10.0,
+        "CC": 10.0,
+        "IOT": 12.0,
+        "CS": 21.0,
+        "QT": 4.0,
+        "BD LAB": 20.0,
+        "FD LAB": 15.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0021",
+      "name": "Iswarya K M",
+      "marks": {
+        "BD": 9.0,
+        "FD": 9.0,
+        "CC": 2.0,
+        "IOT": 12.0,
+        "CS": 14.0,
+        "QT": 11.0,
+        "BD LAB": 19.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0022",
+      "name": "Jamuna Bouri",
+      "marks": {
+        "BD": 9.0,
+        "FD": 8.0,
+        "CC": 3.0,
+        "IOT": 11.0,
+        "CS": "ab",
+        "QT": 3.0,
+        "BD LAB": 19.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0023",
+      "name": "Kavya G",
+      "marks": {
+        "BD": 19.0,
+        "FD": 16.0,
+        "CC": 15.0,
+        "IOT": 19.0,
+        "CS": 16.0,
+        "QT": 20.0,
+        "BD LAB": 23.0,
+        "FD LAB": 22.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0024",
+      "name": "Kiran Kumar R",
+      "marks": {
+        "BD": 0.0,
+        "FD": 0.0,
+        "CC": 9.0,
+        "IOT": 10.0,
+        "CS": 13.0,
+        "QT": 11.0,
+        "BD LAB": 17.0,
+        "FD LAB": 9.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0025",
+      "name": "Kusuma G",
+      "marks": {
+        "BD": 9.0,
+        "FD": "ab",
+        "CC": 5.0,
+        "IOT": 12.0,
+        "CS": 13.0,
+        "QT": 14.0,
+        "BD LAB": 22.0,
+        "FD LAB": 23.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0026",
+      "name": "Laya R",
+      "marks": {
+        "BD": "ab",
+        "FD": 7.0,
+        "CC": "ab",
+        "IOT": 12.0,
+        "CS": 13.0,
+        "QT": 3.0,
+        "BD LAB": 19.0,
+        "FD LAB": 21.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0027",
+      "name": "M Varun",
+      "marks": {
+        "BD": "ab",
+        "FD": 1.0,
+        "CC": 0.0,
+        "IOT": 3.0,
+        "CS": "ab",
+        "QT": 4.0,
+        "BD LAB": 17.0,
+        "FD LAB": 10.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0028",
+      "name": "Madhumitha A",
+      "marks": {
+        "BD": 9.0,
+        "FD": 12.0,
+        "CC": 15.0,
+        "IOT": 19.0,
+        "CS": 15.0,
+        "QT": 7.0,
+        "BD LAB": 19.0,
+        "FD LAB": 17.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0029",
+      "name": "MahantheshKumar",
+      "marks": {
+        "BD": "ab",
+        "FD": "ab",
+        "CC": "ab",
+        "IOT": "ab",
+        "CS": 6.0,
+        "QT": "ab",
+        "BD LAB": 16.0,
+        "FD LAB": 10.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0030",
+      "name": "Manasa S",
+      "marks": {
+        "BD": "ab",
+        "FD": 23.0,
+        "CC": 21.0,
+        "IOT": 22.0,
+        "CS": 24.0,
+        "QT": 23.0,
+        "BD LAB": 25.0,
+        "FD LAB": 25.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0032",
+      "name": "Manasa J",
+      "marks": {
+        "BD": 10.0,
+        "FD": 9.0,
+        "CC": 16.0,
+        "IOT": 21.0,
+        "CS": 23.0,
+        "QT": 18.0,
+        "BD LAB": 21.0,
+        "FD LAB": 17.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0033",
+      "name": "Meenakshi R",
+      "marks": {
+        "BD": 17.0,
+        "FD": 24.0,
+        "CC": 17.0,
+        "IOT": "ab",
+        "CS": 24.0,
+        "QT": 18.0,
+        "BD LAB": 25.0,
+        "FD LAB": 25.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0034",
+      "name": "Megha Ravindra Gudihindin",
+      "marks": {
+        "BD": 10.0,
+        "FD": 11.0,
+        "CC": 4.0,
+        "IOT": 9.0,
+        "CS": 17.0,
+        "QT": 0.0,
+        "BD LAB": 18.0,
+        "FD LAB": 19.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0036",
+      "name": "Mohan T N",
+      "marks": {
+        "BD": 5.0,
+        "FD": "ab",
+        "CC": 3.0,
+        "IOT": 7.0,
+        "CS": 4.0,
+        "QT": 0.0,
+        "BD LAB": 13.0,
+        "FD LAB": 10.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0037",
+      "name": "Nandan P",
+      "marks": {
+        "BD": 7.0,
+        "FD": 8.0,
+        "CC": 5.0,
+        "IOT": 5.0,
+        "CS": 6.0,
+        "QT": 1.0,
+        "BD LAB": 13.0,
+        "FD LAB": 9.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0038",
+      "name": "Nandini P",
+      "marks": {
+        "BD": 9.0,
+        "FD": 13.0,
+        "CC": "ab",
+        "IOT": 9.0,
+        "CS": 9.0,
+        "QT": 3.0,
+        "BD LAB": 21.0,
+        "FD LAB": 18.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0039",
+      "name": "Nayana K",
+      "marks": {
+        "BD": 21.0,
+        "FD": 21.0,
+        "CC": 20.0,
+        "IOT": 23.0,
+        "CS": 24.0,
+        "QT": 21.0,
+        "BD LAB": 24.0,
+        "FD LAB": 23.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0040",
+      "name": "Neetu S",
+      "marks": {
+        "BD": 10.0,
+        "FD": 11.0,
+        "CC": 9.0,
+        "IOT": 16.0,
+        "CS": "ab",
+        "QT": 2.0,
+        "BD LAB": 20.0,
+        "FD LAB": 14.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0041",
+      "name": "Pallavi R",
+      "marks": {
+        "BD": 13.0,
+        "FD": 13.0,
+        "CC": 12.0,
+        "IOT": 16.0,
+        "CS": 12.0,
+        "QT": 4.0,
+        "BD LAB": 21.0,
+        "FD LAB": 19.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0042",
+      "name": "Sneha R",
+      "marks": {
+        "BD": 23.0,
+        "FD": 23.0,
+        "CC": 18.0,
+        "IOT": 24.0,
+        "CS": 24.0,
+        "QT": 21.0,
+        "BD LAB": 23.0,
+        "FD LAB": 24.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0043",
+      "name": "Rashmi S",
+      "marks": {
+        "BD": 18.0,
+        "FD": 18.0,
+        "CC": 16.0,
+        "IOT": 21.0,
+        "CS": 18.0,
+        "QT": 19.0,
+        "BD LAB": 25.0,
+        "FD LAB": 22.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0045",
+      "name": "Rudresh C",
+      "marks": {
+        "BD": 10.0,
+        "FD": 9.0,
+        "CC": 3.0,
+        "IOT": 13.0,
+        "CS": "ab",
+        "QT": 3.0,
+        "BD LAB": 17.0,
+        "FD LAB": 15.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0046",
+      "name": "Vinay S",
+      "marks": {
+        "BD": 6.0,
+        "FD": 6.0,
+        "CC": 5.0,
+        "IOT": 5.0,
+        "CS": 9.0,
+        "QT": 3.0,
+        "BD LAB": 14.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0047",
+      "name": "Santosh Kumar L",
+      "marks": {
+        "BD": 5.0,
+        "FD": 8.0,
+        "CC": 6.0,
+        "IOT": 14.0,
+        "CS": 13.0,
+        "QT": 20.0,
+        "BD LAB": 16.0,
+        "FD LAB": 13.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0048",
+      "name": "Shakthivel S",
+      "marks": {
+        "BD": 19.0,
+        "FD": 21.0,
+        "CC": 17.0,
+        "IOT": 23.0,
+        "CS": 25.0,
+        "QT": 9.0,
+        "BD LAB": 22.0,
+        "FD LAB": "ab"
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0049",
+      "name": "Supritha K",
+      "marks": {
+        "BD": 20.0,
+        "FD": 18.0,
+        "CC": 18.0,
+        "IOT": 22.0,
+        "CS": 23.0,
+        "QT": 21.0,
+        "BD LAB": 24.0,
+        "FD LAB": 25.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0050",
+      "name": "Swetha K",
+      "marks": {
+        "BD": 20.0,
+        "FD": 14.0,
+        "CC": 17.0,
+        "IOT": 22.0,
+        "CS": 24.0,
+        "QT": 13.0,
+        "BD LAB": 24.0,
+        "FD LAB": 24.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0051",
+      "name": "Tejashwini V",
+      "marks": {
+        "BD": "ab",
+        "FD": 15.0,
+        "CC": 18.0,
+        "IOT": 18.0,
+        "CS": 24.0,
+        "QT": 11.0,
+        "BD LAB": 24.0,
+        "FD LAB": 21.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0052",
+      "name": "Thanushree",
+      "marks": {
+        "BD": 9.0,
+        "FD": 14.0,
+        "CC": 13.0,
+        "IOT": 14.0,
+        "CS": 15.0,
+        "QT": 7.0,
+        "BD LAB": 19.0,
+        "FD LAB": 15.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0053",
+      "name": "Udayakumar",
+      "marks": {
+        "BD": 13.0,
+        "FD": 12.0,
+        "CC": 9.0,
+        "IOT": 15.0,
+        "CS": 13.0,
+        "QT": 10.0,
+        "BD LAB": 18.0,
+        "FD LAB": 14.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0054",
+      "name": "J Varshitha",
+      "marks": {
+        "BD": 10.0,
+        "FD": 13.0,
+        "CC": 10.0,
+        "IOT": 17.0,
+        "CS": 9.0,
+        "QT": 5.0,
+        "BD LAB": 20.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0055",
+      "name": "Vasumathi V",
+      "marks": {
+        "BD": 10.0,
+        "FD": 14.0,
+        "CC": 12.0,
+        "IOT": 11.0,
+        "CS": 18.0,
+        "QT": 4.0,
+        "BD LAB": 17.0,
+        "FD LAB": 15.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0056",
+      "name": "Veena N P",
+      "marks": {
+        "BD": 23.0,
+        "FD": 16.0,
+        "CC": 18.0,
+        "IOT": 20.0,
+        "CS": 24.0,
+        "QT": 14.0,
+        "BD LAB": 22.0,
+        "FD LAB": 16.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0057",
+      "name": "Vidya M",
+      "marks": {
+        "BD": 18.0,
+        "FD": 17.0,
+        "CC": 17.0,
+        "IOT": 23.0,
+        "CS": 23.0,
+        "QT": 9.0,
+        "BD LAB": 23.0,
+        "FD LAB": 22.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0058",
+      "name": "Vinod",
+      "marks": {
+        "BD": 20.0,
+        "FD": 18.0,
+        "CC": 18.0,
+        "IOT": 19.0,
+        "CS": 23.0,
+        "QT": 13.0,
+        "BD LAB": 24.0,
+        "FD LAB": "ab"
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0059",
+      "name": "Vinutha S",
+      "marks": {
+        "BD": 21.0,
+        "FD": 18.0,
+        "CC": 18.0,
+        "IOT": 23.0,
+        "CS": 24.0,
+        "QT": 18.0,
+        "BD LAB": 24.0,
+        "FD LAB": 23.0
+      }
+    },
+    {
+      "reg_no": "U03MJ24S0060",
+      "name": "Yogesh N",
+      "marks": {
+        "BD": 20.0,
+        "FD": 22.0,
+        "CC": 21.0,
+        "IOT": 19.0,
+        "CS": 24.0,
+        "QT": 25.0,
+        "BD LAB": 25.0,
+        "FD LAB": 24.0
+      }
+    }
+  ]
+}
