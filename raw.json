@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Varun",
+      "class": "V Semester BCA",
+      "college": "SVR First Grade College",
+      "totalMarks": 438
+    },
+    {
+      "name": "Nandan",
+      "class": "V Semester BCA",
+      "college": "SVR First Grade College",
+      "totalMarks": 462
+    },
+    {
+      "name": "Vinay",
+      "class": "V Semester BCA",
+      "college": "SVR First Grade College",
+      "totalMarks": 401
+    }
+  ]
+}
