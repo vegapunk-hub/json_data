@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>React Props and Destructuring</title>
+
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #f2f2f2;
+            padding: 30px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px;
+            border-radius: 10px;
+            display: inline-block;
+            width: 200px;
+            box-shadow: 0 3px 10px #ccc;
+        }
+
+        h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="root"></div>
+
+    <script type="text/babel">
+
+        function StudentCard({ name }) {
+
+            return (
+                <div className="card">
+                    <h2>{name}</h2>
+                </div>
+            );
+
+        }
+
+        function App() {
+
+            return (
+                <div>
+
+                    <StudentCard name="Anbu" />
+                    <StudentCard name="Senthil" />
+                    <StudentCard name="Gunaa" />
+                    <StudentCard name="Nandan" />
+                    <StudentCard name="Uday" />
+
+                </div>
+            );
+
+        }
+
+        ReactDOM.createRoot(document.getElementById("root"))
+            .render(<App />);
+
+    </script>
+
+</body>
+</html>
