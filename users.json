@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Kumar",
+    "username": "rahul_bca",
+    "course": "BCA",
+    "bio": "Learning web development",
+    "followers": 120,
+    "following": 80,
+    "posts": [
+      { "id": 101, "text": "Just completed my React assignment!", "likes": 25 },
+      { "id": 102, "text": "Learning Fetch API today.", "likes": 18 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ananya Rao",
+    "username": "ananya_codes",
+    "course": "BCA",
+    "bio": "Frontend enthusiast. Coffee and CSS.",
+    "followers": 340,
+    "following": 150,
+    "posts": [
+      { "id": 201, "text": "Finally understood flexbox. Layouts feel easy now!", "likes": 52 },
+      { "id": 202, "text": "Anyone up for a hackathon team this weekend?", "likes": 31 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mohammed Faiz",
+    "username": "faiz_bsc",
+    "course": "BSc Computer Science",
+    "bio": "Data structures, cricket and chai.",
+    "followers": 210,
+    "following": 195,
+    "posts": [
+      { "id": 301, "text": "Solved 50 problems on linked lists. Pointers no longer scare me.", "likes": 44 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Priya Nair",
+    "username": "priya_design",
+    "course": "BCom",
+    "bio": "Studying commerce, building side projects.",
+    "followers": 95,
+    "following": 120,
+    "posts": [
+      { "id": 401, "text": "Built my first landing page for the college fest.", "likes": 29 },
+      { "id": 402, "text": "Library is full today. Exam season has begun.", "likes": 12 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Arjun Mehta",
+    "username": "arjun_mca",
+    "course": "MCA",
+    "bio": "Backend curious. Open source beginner.",
+    "followers": 410,
+    "following": 60,
+    "posts": [
+      { "id": 501, "text": "Made my first pull request to an open source repo today!", "likes": 78 },
+      { "id": 502, "text": "JSON is just text with rules. Simple once you see it.", "likes": 36 }
+    ]
+  }
+]
